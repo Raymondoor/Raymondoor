@@ -19,8 +19,8 @@ This is where I leave stuff that might matter or not.
 
 ## 3. Social Accounts
 * Email:
-    <a href="mailto:torhc17311@gmail.com">torhc17311@gmail.com</a>
+    <br><a href="mailto:torhc17311@gmail.com">torhc17311@gmail.com</a>
 * Github:
-    <a href="https://github.com/Raymondoor">https://github.com/Raymondoor</a>
+    <br><a href="https://github.com/Raymondoor">https://github.com/Raymondoor</a>
 * X:
-    <a href="https://x.com/Raymondoor311">https://x.com/Raymondoor311</a>
+    <br><a href="https://x.com/Raymondoor311">https://x.com/Raymondoor311</a>
