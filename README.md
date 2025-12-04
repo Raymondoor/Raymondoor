@@ -24,5 +24,3 @@ This is where I leave stuff that might matter or not.
     <br><a href="https://github.com/Raymondoor">https://github.com/Raymondoor</a>
 * X:
     <br><a href="https://x.com/Raymondoor311">https://x.com/Raymondoor311</a>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raymondoor&layout=compact)
