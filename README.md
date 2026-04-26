@@ -9,7 +9,7 @@ This is where I leave stuff that might matter or not.
 * Name: T. Okazaki
 * Place: Japan
 * Year of Birth: 2004
-* Student at [GSC, Aoyama Gakuin University](https://github.com/gsc-aoyama) (2022~)
+* Student at [GSC, Aoyama Gakuin University](https://github.com/gsc-aoyama) (2022~2025)
 
 ## 2. Main Interest
 * Audio
