@@ -1,7 +1,6 @@
 # Raymondoor
 This is where I leave stuff that might matter or not.
 
----
 ## About myself
 * Name: T. Okazaki
 * Place: Japan
