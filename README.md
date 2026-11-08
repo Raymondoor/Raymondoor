@@ -24,5 +24,5 @@ This is where I leave stuff that might matter or not.
     <br><a href="https://x.com/Raymondoor311">https://x.com/Raymondoor311</a>
 
 ## Random Photos
-<img src="https://github.com/Raymondoor/Raymondoor/blob/main/src/img/earth.jpg?raw=true" height="200" style="border: 2px solid black;"> <img src="https://github.com/Raymondoor/Raymondoor/blob/main/src/img/susuki_16x9.jpg?raw=true" height="200" style="border: 2px solid black;">
+<img src="https://github.com/Raymondoor/Raymondoor/blob/main/src/img/Night_Window_sq_1k.jpg?raw=true" height="200" style="border: 2px solid black;"> <img src="https://github.com/Raymondoor/Raymondoor/blob/main/src/img/susuki_16x9.jpg?raw=true" height="200" style="border: 2px solid black;">
 <img src="https://github.com/Raymondoor/Raymondoor/blob/main/src/img/Auckland_16x9.jpg?raw=true" height="200" style="border: 2px solid black;"> <img src="https://github.com/Raymondoor/Raymondoor/blob/main/src/img/background_image_color_square.jpg?raw=true" height="200" style="border: 2px solid black;">
